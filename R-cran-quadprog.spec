@@ -5,7 +5,7 @@ Summary:	Funkcje do rozwi±zywania problemów programowania kwadratowego
 Name:		R-cran-%{modulename}
 Version:	1.4r7
 Release:	1
-License:	GPL version 2 or later
+License:	GPL v2+
 Group:		Applications/Math
 Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
 # Source0-md5:	d93eb133e72e89de717c9db9d5f28d66
