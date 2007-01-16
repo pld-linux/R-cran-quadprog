@@ -21,7 +21,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package contains routines and documentation for solving quadratic
 programming problems.
 
-%description
+%description -l pl
 Pakiet zawiera biblioteki i dokumentacjê do rozwi±zywania problemów
 programowania kwadratowego.
 
