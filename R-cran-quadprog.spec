@@ -1,7 +1,7 @@
 %define		fversion	%(echo %{version} |tr r -)
 %define		modulename	quadprog
 Summary:	Functions to solve Quadratic Programming Problems
-Summary(pl):	Funkcje do rozwi±zywania problemów programowania kwadratowego
+Summary(pl.UTF-8):   Funkcje do rozwiÄ…zywania problemÃ³w programowania kwadratowego
 Name:		R-cran-%{modulename}
 Version:	1.4r7
 Release:	2
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package contains routines and documentation for solving quadratic
 programming problems.
 
-%description -l pl
-Pakiet zawiera biblioteki i dokumentacjê do rozwi±zywania problemów
+%description -l pl.UTF-8
+Pakiet zawiera biblioteki i dokumentacjÄ™ do rozwiÄ…zywania problemÃ³w
 programowania kwadratowego.
 
 %prep
