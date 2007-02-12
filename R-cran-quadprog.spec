@@ -1,7 +1,7 @@
 %define		fversion	%(echo %{version} |tr r -)
 %define		modulename	quadprog
 Summary:	Functions to solve Quadratic Programming Problems
-Summary(pl.UTF-8):   Funkcje do rozwiązywania problemów programowania kwadratowego
+Summary(pl.UTF-8):	Funkcje do rozwiązywania problemów programowania kwadratowego
 Name:		R-cran-%{modulename}
 Version:	1.4r7
 Release:	2
