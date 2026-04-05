@@ -4,10 +4,10 @@ Summary:	Functions to solve Quadratic Programming Problems
 Summary(pl.UTF-8):	Funkcje do rozwiązywania problemów programowania kwadratowego
 Name:		R-cran-%{modulename}
 Version:	1.5r5
-Release:	4
+Release:	5
 License:	GPL v2+
 Group:		Applications/Math
-Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
+Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
 # Source0-md5:	8442f37afd8d0b19b12e77d63e6515ad
 BuildRequires:	R >= 2.8.1
 BuildRequires:	blas-devel
